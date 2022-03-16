@@ -1,0 +1,38 @@
+#container {
+	width: 960px ;
+	margin:0px auto;
+	font-family: 'Raleway', sans-serif;
+	border:solid white 1px;
+	background-color: #00a8e0;
+	color: white;
+	list-style-type: none;
+}
+
+#image {
+	width:  250px;
+	height: 50px;
+	margin-right: 
+    text-align: center;
+    float: right;
+    margin:10px 50px 0px 0px;
+    }
+
+nav {background-color: #00a8e0;
+    width: 200px;
+    float:   left;
+ }
+
+nav ol li{
+	border: solid white 1px;
+	text-align: center;
+	margin:10px 20px 0px 0px;
+	padding: 10px 10px 10px 10px;
+	list-style-type: none;
+}
+
+#main {
+	width: 560px;
+	float: right;
+	margin:0px 2em 0px;
+	
+}
